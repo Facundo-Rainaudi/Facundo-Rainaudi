@@ -1,16 +1,39 @@
-## Hi there 👋
+### Facundo-Rainaudi/README.md
 
-<!--
-**Facundo-Rainaudi/Facundo-Rainaudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Buenas! Soy Facundo Rainaudi 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 Backend Developer. Trabajo con <b>Node.js, Express y PostgreSQL</b> (Sequelize), sumando integraciones con <b>OpenAI</b> y <b>Google Gemini</b>. Desarrollo también en <b>React Native</b>. Estudiante avanzado de la Tecnicatura Superior en Desarrollo de Software (Colegio Superior San Martín).
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Proyectos
+
+| Proyecto | Stack | Descripción | |
+|---|---|---|---|
+| 🏋️ **mTOR** | React Native · Node.js · Express · Sequelize · PostgreSQL | App de gestión para gimnasios: turnos, capacidad por franja, lista de espera con notificaciones, verificación por email y reseteo de contraseña. Proyecto final de carrera. | Privado |
+
+> 🚧 Más proyectos en camino — este perfil se va a ir actualizando a medida que publique nuevos repos.
+
+---
+
+## 📬 ¿Charlamos?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/facundo-rainaudi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundorainaudi73@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Facundo-Rainaudi)
