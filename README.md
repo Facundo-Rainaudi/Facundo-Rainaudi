@@ -26,7 +26,7 @@
 
 | Proyecto | Stack | Descripción | |
 |---|---|---|---|
-| 🏋️ **mTOR** | React Native · Node.js · Express · Sequelize · PostgreSQL | App de gestión para gimnasios: turnos, capacidad por franja, lista de espera con notificaciones, verificación por email y reseteo de contraseña. Proyecto final de carrera. | Privado |
+| 🏋️ **mTOR** | React Native · Node.js · Express · Sequelize · PostgreSQL | App de gestión para gimnasio: turnos con logica de capacidad por franja, lista de espera con notificaciones (WebSocket), verificación por email y un sistema de diseño propio para mantener consistencia visual en toda la app.. Proyecto final de carrera. | Privado |
 | 🤖 **Backend Blog con IA** | Node.js · Express · MongoDB · Mongoose · OpenAI API | API RESTful con auth JWT (registro, login, perfil), CRUD de artículos asociados a usuarios, búsqueda por criterios y generación automática de artículos con IA (`POST /generateArticle`). | [Publico](https://github.com/Facundo-Rainaudi/Backend-gestion-de-contenidos) |
 | 🎙️ **TalentCircle (No Country)** | Node.js · discord.js · Google Gemini AI · dotenv | Backend de un pipeline de generación de contenido para la comunidad tech TalentCircle: un bot de Discord recolecta los últimos 100 mensajes de un canal y Gemini AI los transforma en 3 formatos de contenido listos para publicar. Proyecto grupal (backend propio, frontend de compañeros). | [Publico](https://github.com/No-Country-simulation/s04-26-equipo13-web-app) |
 
