@@ -3,7 +3,7 @@
 <h1 align="center">¡Buenas! Soy Facundo Rainaudi 👋</h1>
 
 <p align="center">
-💻 Backend Developer. Trabajo con <b>Node.js, Express y bases de datos SQL y No SQL</b> (Sequelize), sumando integraciones con <b>OpenAI</b> y <b>Google Gemini</b>. Desarrollo también en <b>React Native</b>. Estudiante avanzado de la Tecnicatura Superior en Desarrollo de Software (Colegio Superior San Martín).
+💻 Backend Developer. Trabajo con <b>Node.js, Express y bases de datos SQL y No SQL</b>, sumando integraciones con <b>OpenAI</b> y <b>Google Gemini</b>. Desarrollo también en <b>React Native</b>. Estudiante avanzado de la Tecnicatura Superior en Desarrollo de Software (Colegio Superior San Martín).
 </p>
 
 ---
