@@ -3,7 +3,7 @@
 <h1 align="center">¡Buenas! Soy Facundo Rainaudi 👋</h1>
 
 <p align="center">
-💻 Backend Developer. Trabajo con <b>Node.js, Express y bases de datos SQL y No SQL</b>, sumando integraciones con <b>OpenAI</b> y <b>Google Gemini</b>. Desarrollo también en <b>React Native</b>. Estudiante avanzado de la Tecnicatura Superior en Desarrollo de Software (Colegio Superior San Martín).
+💻 Full Stack Developer. Trabajo con <b>Node.js, Express y bases de datos SQL y No SQL</b>, sumando integraciones con <b>OpenAI</b> y <b>Google Gemini</b>. Desarrollo también en <b>React Native</b>.
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 | Proyecto | Stack | Descripción | |
 |---|---|---|---|
-| 🏋️ **mTOR** | React Native · Node.js · Express · Sequelize · PostgreSQL | App de gestión para gimnasio: turnos con logica de capacidad por horarios, lista de espera con notificaciones (WebSocket), verificación por email y un sistema de diseño propio para mantener consistencia visual en toda la app. Proyecto final de carrera. | Privado |
+| 🏋️ **mTOR** | React Native · Node.js · Express · Sequelize · PostgreSQL | App de gestión para gimnasio: turnos con logica de capacidad por horarios, lista de espera con notificaciones (WebSocket), verificación por email y un sistema de diseño propio para mantener consistencia visual en toda la app. Proyecto final de carrera. | [Publico] (https://github.com/Facundo-Rainaudi/PF-app-movil-gimnasio) |
 | 🤖 **Backend Blog con IA** | Node.js · Express · MongoDB · Mongoose · OpenAI API | API RESTful con auth JWT (registro, login, perfil), CRUD de artículos asociados a usuarios, búsqueda por criterios y generación automática de artículos con IA (`POST /generateArticle`). | [Publico](https://github.com/Facundo-Rainaudi/Backend-gestion-de-contenidos) |
 | 🎙️ **TalentCircle (No Country)** | Node.js · discord.js · Google Gemini AI · dotenv | Backend de un pipeline de generación de contenido para la comunidad tech TalentCircle: un bot de Discord recolecta los últimos 100 mensajes de un canal y Gemini AI los transforma en 3 formatos de contenido listos para publicar. Proyecto grupal (backend propio, frontend de compañeros). | [Publico](https://github.com/No-Country-simulation/s04-26-equipo13-web-app) |
 
